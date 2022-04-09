@@ -11,4 +11,4 @@ arrElements.forEach(e=>console.log(e.innerText));
 // //Make the change
 // let wordTochange = /SAP/igm;
 // let newWord = "Odoo";
-// arrElements.forEach(e=>e.innerText = e.innerText.replace(wordTochange, newWord));
+// arrElements.forEach(e=>e.innerText = e.innerText.replace(wordTochange, newWord));gi
